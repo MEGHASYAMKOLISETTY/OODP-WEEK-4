@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class T4Tutorials_Floyds_Triangle
+class Floyds_Triangle
 {
 	public:
 		int i,j,p,q,n;
